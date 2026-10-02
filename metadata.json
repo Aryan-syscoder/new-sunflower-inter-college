@@ -1,0 +1,6 @@
+{
+  "name": "Oakridge Global Academy",
+  "description": "Premier K-12 school portal featuring modern campus showcases, dynamic Nursery-to-12th fee structures, automated student admissions with double-sided email notifications, and an administrative command dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

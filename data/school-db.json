@@ -1,0 +1,481 @@
+{
+  "schoolData": {
+    "name": "New Sunflower Inter College",
+    "tagline": "Recognized Intermediate Arts & Science College Since 1995",
+    "established": 1995,
+    "motto": "Knowledge · Character · Progress",
+    "affiliationNumber": "UP Board / College Code: AG-1048",
+    "recognizedStreams": [
+      "Intermediate Science Stream (Physics, Chemistry, Maths & Biology)",
+      "Intermediate Arts Stream (History, Political Science, Geography, Hindi, English)"
+    ],
+    "ratings": {
+      "googleRating": 3.8,
+      "googleReviewsCount": 148,
+      "justdialRating": 4,
+      "justdialVotes": 149
+    },
+    "contact": {
+      "phone": "0562 221 4303",
+      "email": "admissions@newsunflowerintercollege.in",
+      "whatsapp": "+919876543210",
+      "address": "Daurada Road, Bodla Rd, near Mahadev Mandir, Keshar Vihar, Balaji Puram, Agra, Uttar Pradesh 282010",
+      "landmark": "Near Mahadev Mandir, Keshar Vihar, Balaji Puram (approx. 9 mins drive from Bodla)",
+      "city": "Agra",
+      "pinCode": "282010",
+      "instagram": "https://instagram.com/newsunflowerintercollege",
+      "ownerEmail": "souravpachori08@gmail.com",
+      "googleMapsDirectionsUrl": "https://www.google.com/maps/search/?api=1&query=New+Sunflower+Inter+College+Daurada+Road+Bodla+Agra"
+    },
+    "timings": {
+      "kindergarten": {
+        "start": "07:30 AM",
+        "end": "12:30 PM",
+        "description": "Nursery, LKG, UKG foundational classes with activity breaks"
+      },
+      "primary": {
+        "start": "07:15 AM",
+        "end": "01:30 PM",
+        "description": "Classes 1 to 5 foundational learning and sports hour"
+      },
+      "secondary": {
+        "start": "07:00 AM",
+        "end": "03:00 PM",
+        "description": "High School & Intermediate (Arts & Science Streams) with lab practicals"
+      },
+      "officeHours": {
+        "weekdays": "07:00 AM – 03:30 PM",
+        "saturday": "07:00 AM – 01:00 PM",
+        "sunday": "Closed (Special revision classes as scheduled)"
+      },
+      "summerShift": "Morning Schedule: 07:00 AM – 01:30 PM",
+      "winterShift": "Regular Session: 07:30 AM – 03:00 PM",
+      "lastUpdated": "2026-10-02T08:56:48.258Z"
+    },
+    "fees": [
+      {
+        "id": "fee-nursery",
+        "grade": "Nursery",
+        "category": "Kindergarten",
+        "admissionFee": 2500,
+        "tuitionFeePerQuarter": 3600,
+        "activityLabFee": 600,
+        "developmentChargeAnnual": 1200,
+        "totalAnnualFee": 18700,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Foundational Play-Way",
+          "Phonics & Basic Hindi/English",
+          "Safe Activity Area"
+        ]
+      },
+      {
+        "id": "fee-lkg",
+        "grade": "LKG",
+        "category": "Kindergarten",
+        "admissionFee": 2500,
+        "tuitionFeePerQuarter": 3900,
+        "activityLabFee": 600,
+        "developmentChargeAnnual": 1200,
+        "totalAnnualFee": 19900,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Junior Alphabetics & Numbers",
+          "Rhymes & Storytelling",
+          "Motor Skills"
+        ]
+      },
+      {
+        "id": "fee-ukg",
+        "grade": "UKG",
+        "category": "Kindergarten",
+        "admissionFee": 2500,
+        "tuitionFeePerQuarter": 4200,
+        "activityLabFee": 700,
+        "developmentChargeAnnual": 1200,
+        "totalAnnualFee": 21200,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Preparatory Writing & Counting",
+          "Drawing & Craft",
+          "Physical Drill"
+        ]
+      },
+      {
+        "id": "fee-class-1",
+        "grade": "Class 1",
+        "category": "Primary (1-5)",
+        "admissionFee": 3000,
+        "tuitionFeePerQuarter": 4800,
+        "activityLabFee": 800,
+        "developmentChargeAnnual": 1500,
+        "totalAnnualFee": 24500,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Hindi, English & Mathematics",
+          "Environmental Studies",
+          "Computer Basics"
+        ]
+      },
+      {
+        "id": "fee-class-2",
+        "grade": "Class 2",
+        "category": "Primary (1-5)",
+        "admissionFee": 3000,
+        "tuitionFeePerQuarter": 4800,
+        "activityLabFee": 800,
+        "developmentChargeAnnual": 1500,
+        "totalAnnualFee": 24500,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Reading Fluency & Tables",
+          "Moral Science",
+          "Weekly Drawing & Sports"
+        ]
+      },
+      {
+        "id": "fee-class-3",
+        "grade": "Class 3",
+        "category": "Primary (1-5)",
+        "admissionFee": 3000,
+        "tuitionFeePerQuarter": 5100,
+        "activityLabFee": 900,
+        "developmentChargeAnnual": 1500,
+        "totalAnnualFee": 25800,
+        "seatAvailability": "Open",
+        "highlights": [
+          "General Knowledge & Science",
+          "Basic Grammar",
+          "Yoga & Calisthenics"
+        ]
+      },
+      {
+        "id": "fee-class-4",
+        "grade": "Class 4",
+        "category": "Primary (1-5)",
+        "admissionFee": 3000,
+        "tuitionFeePerQuarter": 5100,
+        "activityLabFee": 900,
+        "developmentChargeAnnual": 1500,
+        "totalAnnualFee": 25800,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Social Studies & Science",
+          "Computer Lab Sessions",
+          "Art Competitions"
+        ]
+      },
+      {
+        "id": "fee-class-5",
+        "grade": "Class 5",
+        "category": "Primary (1-5)",
+        "admissionFee": 3000,
+        "tuitionFeePerQuarter": 5400,
+        "activityLabFee": 1000,
+        "developmentChargeAnnual": 1500,
+        "totalAnnualFee": 27100,
+        "seatAvailability": "Limited Seats",
+        "highlights": [
+          "Primary Completion Certificate",
+          "Mental Math Drills",
+          "Scouts & Guides Intro"
+        ]
+      },
+      {
+        "id": "fee-class-6",
+        "grade": "Class 6",
+        "category": "Middle (6-8)",
+        "admissionFee": 3500,
+        "tuitionFeePerQuarter": 6000,
+        "activityLabFee": 1200,
+        "developmentChargeAnnual": 1800,
+        "totalAnnualFee": 30500,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Sanskrit, Hindi, English",
+          "Integrated Science",
+          "Junior Kho-Kho & Volleyball"
+        ]
+      },
+      {
+        "id": "fee-class-7",
+        "grade": "Class 7",
+        "category": "Middle (6-8)",
+        "admissionFee": 3500,
+        "tuitionFeePerQuarter": 6000,
+        "activityLabFee": 1200,
+        "developmentChargeAnnual": 1800,
+        "totalAnnualFee": 30500,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Science Lab Demonstrations",
+          "Algebra & Geometry Foundations",
+          "Debate Contests"
+        ]
+      },
+      {
+        "id": "fee-class-8",
+        "grade": "Class 8",
+        "category": "Middle (6-8)",
+        "admissionFee": 3500,
+        "tuitionFeePerQuarter": 6300,
+        "activityLabFee": 1300,
+        "developmentChargeAnnual": 1800,
+        "totalAnnualFee": 31800,
+        "seatAvailability": "Limited Seats",
+        "highlights": [
+          "Board Preparation Readiness",
+          "Practical Workbooks",
+          "Athletic Tournaments"
+        ]
+      },
+      {
+        "id": "fee-class-9",
+        "grade": "Class 9",
+        "category": "Secondary (9-10)",
+        "admissionFee": 4500,
+        "tuitionFeePerQuarter": 7200,
+        "activityLabFee": 1800,
+        "developmentChargeAnnual": 2200,
+        "totalAnnualFee": 37300,
+        "seatAvailability": "Limited Seats",
+        "highlights": [
+          "UP Board High School Registration",
+          "Physics, Chemistry & Biology Labs",
+          "Remedial Evening Classes"
+        ]
+      },
+      {
+        "id": "fee-class-10",
+        "grade": "Class 10",
+        "category": "Secondary (9-10)",
+        "admissionFee": 4500,
+        "tuitionFeePerQuarter": 7500,
+        "activityLabFee": 2000,
+        "developmentChargeAnnual": 2200,
+        "totalAnnualFee": 38700,
+        "seatAvailability": "Limited Seats",
+        "highlights": [
+          "Intensive Board Mock Series",
+          "Doubt Clearing Sessions",
+          "Practical Board Exams Prep"
+        ]
+      },
+      {
+        "id": "fee-class-11-sci",
+        "grade": "Class 11 - Science",
+        "category": "Senior Secondary (11-12)",
+        "admissionFee": 5500,
+        "tuitionFeePerQuarter": 9000,
+        "activityLabFee": 3200,
+        "developmentChargeAnnual": 2500,
+        "totalAnnualFee": 47200,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Recognized UP Board Science Stream",
+          "Physics & Chemistry Laboratories",
+          "Maths / Biology Specialization"
+        ]
+      },
+      {
+        "id": "fee-class-11-hum",
+        "grade": "Class 11 - Humanities",
+        "category": "Senior Secondary (11-12)",
+        "admissionFee": 4800,
+        "tuitionFeePerQuarter": 7800,
+        "activityLabFee": 1800,
+        "developmentChargeAnnual": 2200,
+        "totalAnnualFee": 40000,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Recognized UP Board Arts Stream",
+          "History, Political Science, Geography",
+          "Hindi Literature & English Electives"
+        ]
+      },
+      {
+        "id": "fee-class-11-com",
+        "grade": "Class 11 - Commerce",
+        "category": "Senior Secondary (11-12)",
+        "admissionFee": 5000,
+        "tuitionFeePerQuarter": 8400,
+        "activityLabFee": 2200,
+        "developmentChargeAnnual": 2200,
+        "totalAnnualFee": 43000,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Accountancy & Business Studies",
+          "Economics & Commercial Math",
+          "Practical Account Books"
+        ]
+      },
+      {
+        "id": "fee-class-12-sci",
+        "grade": "Class 12 - Science",
+        "category": "Senior Secondary (11-12)",
+        "admissionFee": 5500,
+        "tuitionFeePerQuarter": 9500,
+        "activityLabFee": 3500,
+        "developmentChargeAnnual": 2500,
+        "totalAnnualFee": 49500,
+        "seatAvailability": "Limited Seats",
+        "highlights": [
+          "Intermediate Science Board Exam Prep",
+          "Practical Lab Marks Mentorship",
+          "Pre-Board Mock Series"
+        ]
+      },
+      {
+        "id": "fee-class-12-hum",
+        "grade": "Class 12 - Humanities",
+        "category": "Senior Secondary (11-12)",
+        "admissionFee": 4800,
+        "tuitionFeePerQuarter": 8200,
+        "activityLabFee": 2000,
+        "developmentChargeAnnual": 2200,
+        "totalAnnualFee": 41800,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Intermediate Arts Board Exam Coaching",
+          "Answer Writing Workshops",
+          "University Degree Guidance"
+        ]
+      },
+      {
+        "id": "fee-class-12-com",
+        "grade": "Class 12 - Commerce",
+        "category": "Senior Secondary (11-12)",
+        "admissionFee": 5000,
+        "tuitionFeePerQuarter": 8800,
+        "activityLabFee": 2400,
+        "developmentChargeAnnual": 2200,
+        "totalAnnualFee": 44800,
+        "seatAvailability": "Open",
+        "highlights": [
+          "Intermediate Commerce Board Mock Series",
+          "Practical Projects & Viva Preparation",
+          "B.Com Entrance Mentoring"
+        ]
+      }
+    ]
+  },
+  "applications": [
+    {
+      "id": "app-1790931422093",
+      "applicationNumber": "NSIC-2026-4285",
+      "fullName": "Kapil Kant Swaroop",
+      "fatherName": "Shri Ram Swaroop",
+      "motherName": "Smt. Shanti Devi",
+      "dateOfBirth": "2008-07-15",
+      "classApplied": "Class 11 - Science",
+      "phone": "0562 221 4303",
+      "email": "kapil.swaroop.agra@gmail.com",
+      "permanentAddress": "Near Mahadev Mandir, Keshar Vihar, Balaji Puram, Bodla, Agra 282010",
+      "status": "Under Review",
+      "submittedAt": "2026-10-02T08:57:02.093Z",
+      "updatedAt": "2026-10-02T08:57:02.093Z"
+    },
+    {
+      "id": "app-001",
+      "applicationNumber": "NSIC-2026-1042",
+      "fullName": "Kapil Kant Swaroop",
+      "fatherName": "Shri Ram Swaroop",
+      "motherName": "Smt. Shanti Devi",
+      "dateOfBirth": "2008-07-15",
+      "classApplied": "Class 11 - Science",
+      "phone": "0562 221 4303",
+      "email": "kapil.swaroop.agra@gmail.com",
+      "permanentAddress": "Near Mahadev Mandir, Keshar Vihar, Balaji Puram, Bodla, Agra 282010",
+      "previousSchool": "New Sunflower Junior High School",
+      "emergencyContact": "+91 94120 54321",
+      "notes": "Selecting Science Stream (Physics, Chemistry, Maths). Requires morning lab shift.",
+      "status": "Under Review",
+      "submittedAt": "2026-10-01T09:15:00.000Z",
+      "updatedAt": "2026-10-01T09:15:00.000Z"
+    },
+    {
+      "id": "app-002",
+      "applicationNumber": "NSIC-2026-1043",
+      "fullName": "Pooja Verma",
+      "fatherName": "Dinesh Verma",
+      "motherName": "Sunita Verma",
+      "dateOfBirth": "2009-03-22",
+      "classApplied": "Class 11 - Humanities",
+      "phone": "+91 98371 44556",
+      "email": "dinesh.verma.agra@outlook.com",
+      "permanentAddress": "Daurada Road, Bodla, Agra 282010",
+      "previousSchool": "Adarsh Vidya Mandir, Agra",
+      "emergencyContact": "+91 98371 44557",
+      "notes": "Intermediate Arts Stream with Geography and Political Science.",
+      "status": "Approved",
+      "submittedAt": "2026-09-28T11:30:00.000Z",
+      "updatedAt": "2026-09-30T10:00:00.000Z"
+    },
+    {
+      "id": "app-003",
+      "applicationNumber": "NSIC-2026-1044",
+      "fullName": "Mohit Pachori",
+      "fatherName": "Ramesh Pachori",
+      "motherName": "Geeta Pachori",
+      "dateOfBirth": "2012-11-05",
+      "classApplied": "Class 7",
+      "phone": "+91 94118 77665",
+      "email": "ramesh.pachori08@gmail.com",
+      "permanentAddress": "Keshar Vihar, Balaji Puram, Agra 282010",
+      "previousSchool": "Primary School Bodla",
+      "emergencyContact": "+91 94118 77666",
+      "notes": "Keen on volleyball and science exhibition activities.",
+      "status": "Interview Scheduled",
+      "interviewDate": "2026-10-05T10:30:00.000Z",
+      "submittedAt": "2026-09-29T14:20:00.000Z",
+      "updatedAt": "2026-10-01T08:45:00.000Z"
+    }
+  ],
+  "emailLogs": [
+    {
+      "id": "log-owner-1790931422094",
+      "recipientEmail": "souravpachori08@gmail.com",
+      "recipientName": "School Owner / Admissions Office",
+      "recipientType": "Owner",
+      "subject": "[Admissions Alert] New Student Registration: Kapil Kant Swaroop (Class 11 - Science) - Ref: NSIC-2026-4285",
+      "templateType": "owner_notification",
+      "htmlContent": "\n<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\">\n  <style>\n    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #f8fafc; margin: 0; padding: 24px; }\n    .container { max-width: 620px; margin: 0 auto; background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; }\n    .header { background: #0f172a; color: #ffffff; padding: 28px 32px; text-align: left; }\n    .header h1 { margin: 0 0 6px 0; font-size: 20px; font-weight: 700; letter-spacing: -0.02em; }\n    .header p { margin: 0; font-size: 13px; color: #94a3b8; }\n    .badge { display: inline-block; background: #f59e0b; color: #0f172a; font-size: 12px; font-weight: 700; padding: 4px 10px; border-radius: 6px; margin-top: 12px; }\n    .body-content { padding: 32px; }\n    .section-title { font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: #475569; margin: 24px 0 12px 0; border-bottom: 1px solid #f1f5f9; padding-bottom: 6px; }\n    .data-table { width: 100%; border-collapse: collapse; margin-bottom: 16px; }\n    .data-table td { padding: 10px 12px; border-bottom: 1px solid #f1f5f9; font-size: 14px; }\n    .data-table td.label { width: 38%; color: #64748b; font-weight: 500; }\n    .data-table td.value { color: #0f172a; font-weight: 600; }\n    .footer { background: #f8fafc; padding: 20px 32px; text-align: center; font-size: 12px; color: #64748b; border-top: 1px solid #e2e8f0; }\n  </style>\n</head>\n<body>\n  <div class=\"container\">\n    <div class=\"header\">\n      <h1>New Sunflower Inter College</h1>\n      <p>Daurada Road, Bodla Rd, Agra, Uttar Pradesh · Est. 1995</p>\n      <div class=\"badge\">Application Ref: NSIC-2026-4285</div>\n    </div>\n    <div class=\"body-content\">\n      <p style=\"font-size: 15px; margin-top: 0;\">A new candidate has submitted an online admission registration dossier for New Sunflower Inter College. Please review the details below:</p>\n      \n      <div class=\"section-title\">Candidate Particulars</div>\n      <table class=\"data-table\">\n        <tr><td class=\"label\">Full Name</td><td class=\"value\">Kapil Kant Swaroop</td></tr>\n        <tr><td class=\"label\">Class Applied For</td><td class=\"value\">Class 11 - Science</td></tr>\n        <tr><td class=\"label\">Date of Birth</td><td class=\"value\">2008-07-15</td></tr>\n        <tr><td class=\"label\">Father's Name</td><td class=\"value\">Shri Ram Swaroop</td></tr>\n        <tr><td class=\"label\">Mother's Name</td><td class=\"value\">Smt. Shanti Devi</td></tr>\n      </table>\n\n      <div class=\"section-title\">Contact & Residence</div>\n      <table class=\"data-table\">\n        <tr><td class=\"label\">Primary Phone</td><td class=\"value\"><a href=\"tel:0562 221 4303\" style=\"color:#2563eb;text-decoration:none;\">0562 221 4303</a></td></tr>\n        <tr><td class=\"label\">Primary Email</td><td class=\"value\"><a href=\"mailto:kapil.swaroop.agra@gmail.com\" style=\"color:#2563eb;text-decoration:none;\">kapil.swaroop.agra@gmail.com</a></td></tr>\n        <tr><td class=\"label\">Emergency Contact</td><td class=\"value\">Not specified</td></tr>\n        <tr><td class=\"label\">Permanent Address</td><td class=\"value\">Near Mahadev Mandir, Keshar Vihar, Balaji Puram, Bodla, Agra 282010</td></tr>\n        <tr><td class=\"label\">Previous School</td><td class=\"value\">First-time admission / Not specified</td></tr>\n      </table>\n\n      \n\n      <div style=\"margin-top: 28px; padding: 16px; background: #fffbeb; border-radius: 8px; border-left: 4px solid #f59e0b;\">\n        <p style=\"margin: 0; font-size: 13px; color: #92400e;\">\n          <strong>College Management Action:</strong> You can review, schedule an interview, approve, or cancel this application directly from the secure Admin Dashboard.\n        </p>\n      </div>\n    </div>\n    <div class=\"footer\">\n      Delivered to Registered Manager / Owner: souravpachori08@gmail.com · New Sunflower Inter College Portal<br>\n      Daurada Road, Bodla Rd, near Mahadev Mandir, Keshar Vihar, Balaji Puram, Agra - 282010\n    </div>\n  </div>\n</body>\n</html>\n  ",
+      "sentAt": "2026-10-02T08:57:02.094Z",
+      "status": "Simulated Delivered"
+    },
+    {
+      "id": "log-student-1790931422094",
+      "recipientEmail": "kapil.swaroop.agra@gmail.com",
+      "recipientName": "Kapil Kant Swaroop (Parent: Shri Ram Swaroop)",
+      "recipientType": "Student",
+      "subject": "Application Received: NSIC-2026-4285 - Welcome to New Sunflower Inter College, Agra",
+      "templateType": "student_confirmation",
+      "htmlContent": "\n<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\">\n  <style>\n    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #f8fafc; margin: 0; padding: 24px; }\n    .container { max-width: 620px; margin: 0 auto; background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; }\n    .header { background: #0f172a; color: #ffffff; padding: 36px 32px; text-align: center; }\n    .header h1 { margin: 0 0 6px 0; font-size: 22px; font-weight: 700; letter-spacing: -0.02em; font-family: Georgia, serif; }\n    .header p { margin: 0; font-size: 14px; color: #cbd5e1; }\n    .status-banner { background: #f0fdf4; border-bottom: 1px solid #bbf7d0; padding: 14px 32px; font-size: 13px; color: #166534; font-weight: 600; text-align: center; }\n    .body-content { padding: 32px; }\n    .ref-box { background: #f8fafc; border: 1px dashed #cbd5e1; border-radius: 8px; padding: 16px; text-align: center; margin: 20px 0; }\n    .ref-number { font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: 0.05em; font-family: monospace; }\n    .steps-list { margin: 20px 0; padding-left: 20px; color: #334155; font-size: 14px; }\n    .steps-list li { margin-bottom: 8px; }\n    .footer { background: #f8fafc; padding: 24px 32px; text-align: center; font-size: 12px; color: #64748b; border-top: 1px solid #e2e8f0; }\n  </style>\n</head>\n<body>\n  <div class=\"container\">\n    <div class=\"header\">\n      <h1>New Sunflower Inter College</h1>\n      <p>Recognized Intermediate Arts & Science Streams · Est. 1995 · Agra, UP</p>\n    </div>\n    <div class=\"status-banner\">\n      ✓ Application Received & Under Official College Review\n    </div>\n    <div class=\"body-content\">\n      <p style=\"margin-top:0; font-size:15px;\">Dear <strong>Shri Ram Swaroop</strong> & <strong>Smt. Shanti Devi</strong>,</p>\n      <p style=\"font-size: 14px; color: #334155;\">\n        Thank you for choosing <strong>New Sunflower Inter College</strong> for the academic journey of <strong>Kapil Kant Swaroop</strong>. We have successfully registered your application for <strong>Class 11 - Science</strong> for the upcoming session.\n      </p>\n\n      <div class=\"ref-box\">\n        <div style=\"font-size: 12px; text-transform: uppercase; color: #64748b; margin-bottom: 4px;\">Official Application Reference Number</div>\n        <div class=\"ref-number\">NSIC-2026-4285</div>\n        <div style=\"font-size: 12px; color: #64748b; margin-top: 4px;\">Please quote this number for all campus queries</div>\n      </div>\n\n      <h3 style=\"font-size: 15px; font-weight: 700; color: #0f172a; margin: 24px 0 10px 0;\">Next Steps in Admission Procedure:</h3>\n      <ol class=\"steps-list\">\n        <li><strong>Document Verification:</strong> Please bring original Transfer Certificate (TC), previous marksheet, and Aadhaar card copies to the college administrative office.</li>\n        <li><strong>Office Hours:</strong> The admissions desk operates Monday to Saturday from <strong>7:00 AM to 3:00 PM</strong> at our Bodla Road campus.</li>\n        <li><strong>Stream Allocation:</strong> For Class 11 & 12, subject allocations in Science Stream (PCM / PCB) or Arts Stream (Humanities) will be finalized.</li>\n      </ol>\n\n      <div style=\"margin-top: 24px; padding: 16px; background: #fefce8; border-radius: 8px; border: 1px solid #fef08a;\">\n        <p style=\"margin: 0; font-size: 13px; color: #854d0e;\">\n          <strong>College Office Telephone:</strong> <a href=\"tel:05622214303\" style=\"color:#854d0e; font-weight:700;\">0562 221 4303</a> | Campus: Daurada Road, Bodla Rd, near Mahadev Mandir, Keshar Vihar, Balaji Puram, Agra 282010.\n        </p>\n      </div>\n\n      <p style=\"font-size: 14px; color: #334155; margin-top: 28px;\">\n        Warm regards,<br>\n        <strong>Office of the Principal</strong><br>\n        New Sunflower Inter College, Agra\n      </p>\n    </div>\n    <div class=\"footer\">\n      New Sunflower Inter College · Daurada Road, Bodla, Agra, Uttar Pradesh 282010<br>\n      Recognized Intermediate College · Phone: 0562 221 4303\n    </div>\n  </div>\n</body>\n</html>\n  ",
+      "sentAt": "2026-10-02T08:57:02.094Z",
+      "status": "Simulated Delivered"
+    },
+    {
+      "id": "email-001",
+      "recipientEmail": "kapil.swaroop.agra@gmail.com",
+      "recipientName": "Kapil Kant Swaroop (Parent: Shri Ram Swaroop)",
+      "recipientType": "Student",
+      "subject": "Application Received: NSIC-2026-1042 - New Sunflower Inter College, Agra",
+      "templateType": "student_confirmation",
+      "htmlContent": "<p>Dear Shri Ram Swaroop, Thank you for registering Kapil Kant Swaroop for Class 11 - Science at New Sunflower Inter College, Agra...</p>",
+      "sentAt": "2026-10-01T09:15:05.000Z",
+      "status": "Delivered"
+    },
+    {
+      "id": "email-002",
+      "recipientEmail": "souravpachori08@gmail.com",
+      "recipientName": "School Management / Principal Desk",
+      "recipientType": "Owner",
+      "subject": "New Registration Alert: Kapil Kant Swaroop (Class 11 - Science) - NSIC-2026-1042",
+      "templateType": "owner_notification",
+      "htmlContent": "<p>A new student registration has been logged for Kapil Kant Swaroop at New Sunflower Inter College, Bodla Road, Agra...</p>",
+      "sentAt": "2026-10-01T09:15:06.000Z",
+      "status": "Delivered"
+    }
+  ],
+  "otpStore": {}
+}
